@@ -7,3 +7,5 @@ This is the official list of contributors for the AUNow Campus Social Platform.
 
 ## Team (add your deets below)
 * **[Name]** (@[GitHub-Username])
+
+* **Veronica/Nifa** (@Nifa-Techdev)
